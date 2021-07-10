@@ -2,6 +2,8 @@
 
 🌱 **Hello**
 
+I am a CURD Developer.
+
 
 <!--
 **xiusl/xiusl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
