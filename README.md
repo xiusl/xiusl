@@ -2,7 +2,7 @@
 
 🌱 **Hello**
 
-I am a CURD Developer.
+I am a CRUD Developer.
 
 
 <!--
